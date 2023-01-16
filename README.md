@@ -1,6 +1,11 @@
 ### Hi there 👋
- Hi, I'm Omar, with a background in Chemical Engineering, a couple years self-taught experience in coding/Python, HTML and CSS and a most recently a graudate of the Northcoders Data Engineering Bootcamp.
 
+I'm Omar, with a background in Chemical Engineering, a couple of years self-taught coding experience and a most recently a graudate of the Northcoders Data Engineering Intensive Bootcamp.
+
+- 🤓 Junior Data Engineer
+- 🎓 Languages: Python, Javascript, SQL (PSQL + SQLite), HTML + CSS
+- ✅ Skills: ETL, AWS, TDD - Pytest + Jest, Data Conversion (Parquet, CSV, XML, YAML)
+- 📈 Love working with numbers and problem-solving - fast and adept learner
 
 <!--
 **divine-intervention/divine-intervention** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
